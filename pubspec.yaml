@@ -15,7 +15,7 @@ dependencies:
   path: ^1.8.0
   pointer_interceptor: ^0.9.0+1
   uuid: ^4.3.3
-  webview_flutter: ^2.0.13
+  webview_flutter: 4.9.0
 
 dev_dependencies:
   flutter_test:
